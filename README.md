@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Titanic Classification Project
 
 ## 📌 Overview
@@ -28,3 +29,6 @@ It demonstrates end-to-end workflow: data preprocessing, model training, evaluat
 1. Clone this repository:
    ```bash
    git clone https://github.com/LakshmiGM/Titanic-Classification.git
+=======
+# Titanic-Classification
+>>>>>>> 13934fa41788b655954b492786c9c0378a2c4d2e
